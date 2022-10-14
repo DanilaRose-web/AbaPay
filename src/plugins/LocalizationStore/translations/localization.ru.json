@@ -1,0 +1,79 @@
+{
+    "Yes":"Да",
+    "No":"Нет",
+    "Cancel":"Отмена",
+    "Loyalty.OpenAccountBtn": "Открыть счет",
+    
+    "Loyalty.MenuItemAccount": "Счет",
+    "Loyalty.MenuItemAbaCard": "ABA Карта",
+    "Loyalty.MenuItemAbaRates": "Цены",
+    "Loyalty.MenuItemAbaSupport": "Поддержка",
+    "Loyalty.MenuItemAbaPrivacyPolicy": "Политика конфиденциальности",
+    "Loyalty.MenuItemAbaTermsAndConditions": "Условия и положения",
+    "Loyalty.MenuItemAbaClaimsProcedure": "Порядок рассмотрения претензий",
+
+    "Loyalty.TypeThemeBusiness": "Бизнес",
+    "Loyalty.TypeThemePersonal": "Личный",
+    "Loyalty.TypeThemeBusinessFull": "Бизнес Аккаунт",
+    "Loyalty.TypeThemePersonalFull": "Личный Аккаунт",
+
+    "Loyalty.SignIn": "Войти",
+    "Loyalty.SignUp": "Регистрация",
+
+    "Loyalty.PageHomeMainTitle": "Лучший способ начать платеж",
+    "Loyalty.PageHomeMainSubtitle": "Мобильный. Удобный. Безопасный.",
+    
+
+    "Loyalty.PageHomeTitleFeatures": "Этап в банковской индустрии",
+    "Loyalty.PageHomeSubtitleFeatures": "В настоящее время филиалы банка находятся в прошлом - регистрация банковских карт и открытие банковского счета в ABA дистанционно. После аутентификации вашей личности мы отправим вам вашу банковскую карточку по почте.",
+
+    "Loyalty.PageHomeFeaturesItemTitle1": "Быстрое открытие учетной записи",
+    "Loyalty.PageHomeFeaturesItemTitle2": "Платежные карты",
+    "Loyalty.PageHomeFeaturesItemTitle3": "Криптовалюта",
+    "Loyalty.PageHomeFeaturesItemTitle4": "SEPA и SWIFT",
+    "Loyalty.PageHomeFeaturesItemTitle5": "Обмен валюты",
+    "Loyalty.PageHomeFeaturesItemTitle6": "Личный менеджер",
+
+    "Loyalty.PageHomeFeaturesItemSubtitle1": "Заполнение формы займет всего около 10 минут.",
+    "Loyalty.PageHomeFeaturesItemSubtitle2": "Управляйте своими средствами из любой точки мира",
+    "Loyalty.PageHomeFeaturesItemSubtitle3": "Возможность покупать, продавать и обменивать одним нажатием кнопки",
+    "Loyalty.PageHomeFeaturesItemSubtitle4": "Простой способ денежных переводов по всему миру",
+    "Loyalty.PageHomeFeaturesItemSubtitle5": "Отличный курс обмена более чем в 100 валютах",
+    "Loyalty.PageHomeFeaturesItemSubtitle6": "Ваш персональный аккаунт-менеджер готов помочь вам 24/7",
+
+    "Loyalty.PageHome.Finance.Title": "Ваши финансы всегда под рукой",
+    "Loyalty.PageHome.Finance.Subtitle": "Вы можете осуществлять платежи любым удобным способом - используя технологию удаленного доступа, вы можете получать и отправлять деньги, а также снимать наличные в любом банкомате.",
+    "Loyalty.PageHome.Portfolio.Title": "Создайте свой идеальный крипто-портфель",
+
+    "Loyalty.PageHome.Portfolio.ListItem1": "Торгуйте самыми разными ведущими криптовалютами и кроссами",
+    "Loyalty.PageHome.Portfolio.ListItem2": "Следите за тенденциями каждой монеты с помощью расширенных графиков и инструментов анализа",
+    "Loyalty.PageHome.Portfolio.ListItem3": "Создайте собственный список наблюдения и будьте в курсе обновлений в режиме реального времени",
+
+    "Loyalty.FooterLinkTitle.Phone": "Мы доступны c",
+    "Loyalty.FooterLinkTitle.Support": "Поддержка",
+    "Loyalty.FooterLinkTitle.SWIFT.Code": "SWIFT Код",
+    "Loyalty.FooterLinkTitle.License": "Номер лицензии",
+    "Loyalty.FooterLinkTitle.Address": "Адрес",
+    "Loyalty.FooterLink.Address": "Vinohradská 3216/165, Strašnice, 100 00 Прага 10, Чешская Республика",
+
+    "Loyalty.Footer.Text": "ABAPAY s.r.o. работает под брендом ABApay и официально уполномочен Национальным банком Чешской Республики предоставлять платежные услуги в соответствии с Правилами оказания платежных услуг.",
+    "Loyalty.Copyright": "Copyright © 2020 ABAPAY s.r.o. Все права защищены",
+
+
+    "Loyalty.PageAccount.Main.Title": "Счет тем кто живет в гармонии со временем",
+    "Loyalty.PageAccount.Main.Subtitle": "АBA навсегда изменит ваше представление о мире финансовых услуг, сделав его максимально понятным, простым и удобным для каждого клиента.",
+    
+    "Loyalty.PageAccount.Transfer.Title": "Быстрые операции с минимальной комиссией",
+    "Loyalty.PageAccount.Transfer.Subtitle": "Отправляйте и получайте деньги за границей",
+
+    "Loyalty.PageAccount.FeaturesItem.Title1": "Безопасность личных данных",
+    "Loyalty.PageAccount.FeaturesItem.Title2": "Простая статистика счета",
+    "Loyalty.PageAccount.FeaturesItem.Title3": "Доступ одним щелчком мыши",
+
+    "Loyalty.PageAccount.FeaturesItem.Subtitle1": "Мы используем современные технологии, которые полностью отвечают всем международным требованиям к безопасности и хранению данных в Интернете.",
+    "Loyalty.PageAccount.FeaturesItem.Subtitle2": "Каждый пользователь получает мгновенный доступ ко всей информации об их текущей учетной записи, балансе и истории транзакций.",
+    "Loyalty.PageAccount.FeaturesItem.Subtitle3": "Вы можете проверить баланс своего аккаунта, совершить покупку или начать новую транзакцию с помощью смартфона, компьютера или планшета.",
+    
+    "Loyalty.Appreciate.Title": "Открытие счета и получение карты",
+    "Loyalty.Appreciate.Subtitle": "ABA отличается от традиционных банков - вам не нужно предоставлять информацию о своей кредитной истории для открытия учетной записи. Мы ценим ваше время, поэтому регистрация в нашей системе и идентификация подлинности займет менее 10 минут. Все, что вам нужно - это смартфон, доступ в Интернет и паспорт или удостоверение личности, а также счет за коммунальные услуги."
+}

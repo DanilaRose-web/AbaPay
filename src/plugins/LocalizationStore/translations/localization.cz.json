@@ -1,0 +1,79 @@
+{
+    "Yes":"Да",
+    "No":"Нет",
+    "Cancel":"Отмена",
+    "Loyalty.OpenAccountBtn": "Zřízení účtu",
+    
+    "Loyalty.MenuItemAccount": "Счет",
+    "Loyalty.MenuItemAbaCard": "Karta ABA",
+    "Loyalty.MenuItemAbaRates": "Sazby",
+    "Loyalty.MenuItemAbaSupport": "Podpora",
+    "Loyalty.MenuItemAbaPrivacyPolicy": "Zásady ochrany osobních údajů",
+    "Loyalty.MenuItemAbaTermsAndConditions": "Pravidla a podmínky",
+    "Loyalty.MenuItemAbaClaimsProcedure": "Postup při reklamaci",
+
+    "Loyalty.TypeThemeBusiness": "Podnikání",
+    "Loyalty.TypeThemePersonal": "Osobní",
+    "Loyalty.TypeThemeBusinessFull": "Podnikání Účet",
+    "Loyalty.TypeThemePersonalFull": "Osobní Účet",
+
+    "Loyalty.SignIn": "Vejít Do",
+    "Loyalty.SignUp": "Odbavit Se",
+
+    "Loyalty.PageHomeMainTitle": "Lepší způsob zahájení platby",
+    "Loyalty.PageHomeMainSubtitle": "Mobilní. Pohodlně. Bezpečně.",
+    
+
+    "Loyalty.PageHomeTitleFeatures": "Milník v bankovním odvětví",
+    "Loyalty.PageHomeSubtitleFeatures": "Bankovní pobočky jsou nyní v minulosti — registrace platební karty a zřízení kartového účtu v ABA se provádí vzdáleně. Po ověření vaší totožnosti zašleme vám bankovní kartu poštou.",
+    
+    "Loyalty.PageHomeFeaturesItemTitle1": "Rychlé otevření účtu",
+    "Loyalty.PageHomeFeaturesItemTitle2": "Platební karty",
+    "Loyalty.PageHomeFeaturesItemTitle3": "Kryptoměna",
+    "Loyalty.PageHomeFeaturesItemTitle4": "SEPA a SWIFT",
+    "Loyalty.PageHomeFeaturesItemTitle5": "Směnárna",
+    "Loyalty.PageHomeFeaturesItemTitle6": "Soukromý manažer",
+
+    "Loyalty.PageHomeFeaturesItemSubtitle1": "Vyplnění formuláře bude trvat jen asi 10 minut",
+    "Loyalty.PageHomeFeaturesItemSubtitle2": "Spravujte své prostředky odkudkoli na světě",
+    "Loyalty.PageHomeFeaturesItemSubtitle3": "Schopnost nakupovat, prodávat a směňovat jediným kliknutím",
+    "Loyalty.PageHomeFeaturesItemSubtitle4": "Snadný způsob převodu peněz do celého světa",
+    "Loyalty.PageHomeFeaturesItemSubtitle5": "Vynikající směnný kurz ve více než 100 měnách",
+    "Loyalty.PageHomeFeaturesItemSubtitle6": "Váš osobní správce účtu je připraven vám pomoci 24/7",
+
+    "Loyalty.PageHome.Finance.Title": "Vaše finance jsou vždy po ruce",
+    "Loyalty.PageHome.Finance.Subtitle": "Platby lze provádět libovolným pohodlným způsobem — pomocí technologie vzdáleného přístupu můžete přijímat a odesílat peníze, stejně jako vybírat peníze z jakéhokoliv bankomatu.",
+    "Loyalty.PageHome.Portfolio.Title": "Vytvořte si své dokonalé krypto portfolio",
+
+    "Loyalty.PageHome.Portfolio.ListItem1": "Obchodujte se širokou škálou předních kryptoměn a kryptoměn",
+    "Loyalty.PageHome.Portfolio.ListItem2": "Sledujte trendy každé mince pomocí pokročilých grafů a analytických nástrojů",
+    "Loyalty.PageHome.Portfolio.ListItem3": "Vytvořte si vlastní Watchlist a zůstaňte informováni pomocí aktualizací v reálném čase",
+
+    "Loyalty.FooterLinkTitle.Phone": "Jsme k dispozici od",
+    "Loyalty.FooterLinkTitle.Support": "Podpora",
+    "Loyalty.FooterLinkTitle.SWIFT.Code": "SWIFT Kód",
+    "Loyalty.FooterLinkTitle.License": "Číslo licence",
+    "Loyalty.FooterLinkTitle.Address": "Adresa",
+    "Loyalty.FooterLink.Address": "Vinohradská 3216/165, Strašnice, 100 00 Prague 10, Czech Republic",
+
+    "Loyalty.Footer.Text": "ABAPAY s.r.o působí pod značkou ABApay a je oficiálně oprávněna Národní bankou České republiky poskytovat platební služby v souladu s Pravidly pro poskytování platebních služeb.",
+    "Loyalty.Copyright": "Copyright © 2020 ABAPAY s.r.o. Všechna práva vyhrazena",
+
+
+    "Loyalty.PageAccount.Main.Title": "Účet pro ty kteří žijí v souladu s dobou",
+    "Loyalty.PageAccount.Main.Subtitle": "АBA navždy změní vaši představu o světě finančních služeb, takže bude pro každého klienta nejsrozumitelnější, nejjednodušší a nejpohodlnější.",
+    
+    "Loyalty.PageAccount.Transfer.Title": "Rychlé transakce s minimální provizí",
+    "Loyalty.PageAccount.Transfer.Subtitle": "Odesílejte peníze do zahraničí a přijímejte ze zahraničí",
+
+    "Loyalty.PageAccount.FeaturesItem.Title1": "Bezpečnost osobních údajů",
+    "Loyalty.PageAccount.FeaturesItem.Title2": "Jednoduchá statistika účtů",
+    "Loyalty.PageAccount.FeaturesItem.Title3": "Přístup na jedno kliknutí",
+
+    "Loyalty.PageAccount.FeaturesItem.Subtitle1": "Používáme moderní technologie, které plně splňují všechny mezinárodní požadavky na bezpečnost a ukládání dat na internetu.",
+    "Loyalty.PageAccount.FeaturesItem.Subtitle2": "Každý uživatel dostane okamžitý přístup ke všem informacím o běžném účtu, zůstatku a historii transakcí.",
+    "Loyalty.PageAccount.FeaturesItem.Subtitle3": "Pomocí smartphonu, počítače nebo tabletu můžete zkontrolovat zůstatek na účtu, uskutečnit nákup nebo zahájit novou transakci.",
+
+    "Loyalty.Appreciate.Title": "Otevření účtu a získání karty",
+    "Loyalty.Appreciate.Subtitle": "ABA se liší od tradičních bank — pro zřízení účtu nemusíte poskytovat informace o Vaší kreditní historii. Vážíme si Vašeho času, proto bude registrace v našem systému a ověření totožnosti trvat méně než 10 minut. Všechno, co budete potřebovat, je smartphone, přístup k internetu a cestovní pas nebo občanský průkaz a účet za služby."
+}

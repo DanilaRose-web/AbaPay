@@ -1,0 +1,42 @@
+@import 'fonts.css';
+
+html {
+    scrollbar-width: none; /* Firefox */
+}
+
+body {
+    font-family: 'Graphik', sans-serif;
+    position: relative;
+    box-sizing: border-box;
+}
+
+a:hover, a:focus, a:active, a {
+    text-decoration: none;
+    outline: none;
+}
+
+input:hover, input:focus, input:active, input, button:hover, button:focus, button:active, button {
+    border: none;
+    outline: none;
+}
+
+.container-fluid {
+    max-width: 1270px;
+}
+
+
+
+.light-theme-bg-white {
+    background: #fff;
+}
+.light-theme-bg-grey {
+    background: #f3f4f9;
+}
+.dark-theme-bg-black {
+    background-color: #0a0d18;
+}
+.dark-theme-bg-blue {
+    background-color: #00132c;
+}
+
+/* select */

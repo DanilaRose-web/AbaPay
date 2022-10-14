@@ -1,0 +1,79 @@
+{
+    "Yes":"Yes",
+    "No":"No",
+    "Cancel":"Cancel",
+    "Loyalty.OpenAccountBtn": "Open Account",
+
+    "Loyalty.MenuItemAccount": "Account",
+    "Loyalty.MenuItemAbaCard": "ABA Card",
+    "Loyalty.MenuItemAbaRates": "Rates",
+    "Loyalty.MenuItemAbaSupport": "Support",
+    "Loyalty.MenuItemAbaPrivacyPolicy": "Privacy Policy",
+    "Loyalty.MenuItemAbaTermsAndConditions": "Terms and Conditions",
+    "Loyalty.MenuItemAbaClaimsProcedure": "Claims Procedure",
+
+    "Loyalty.TypeThemeBusiness": "Business",
+    "Loyalty.TypeThemePersonal": "Personal",
+    "Loyalty.TypeThemeBusinessFull": "Business Account",
+    "Loyalty.TypeThemePersonalFull": "Personal Account",
+
+    "Loyalty.SignIn": "SignIn",
+    "Loyalty.SignUp": "SignUp",
+
+    "Loyalty.PageHomeMainTitle": "The Better Way to Start the Payment",
+    "Loyalty.PageHomeMainSubtitle": "Mobile. Convenient. Safe.",
+
+    "Loyalty.PageHomeTitleFeatures": "A milestone in the bank industry",
+    "Loyalty.PageHomeSubtitleFeatures": "Bank branches are now in the past — bankcard registration and bankcard account opening in ABA are remote. Upon your identity authentication, we will send you your bankcard by post.",
+
+    "Loyalty.PageHomeFeaturesItemTitle1": "Quick account opening",
+    "Loyalty.PageHomeFeaturesItemTitle2": "Payment cards",
+    "Loyalty.PageHomeFeaturesItemTitle3": "Cryptocurrency",
+    "Loyalty.PageHomeFeaturesItemTitle4": "SEPA & SWIFT",
+    "Loyalty.PageHomeFeaturesItemTitle5": "Currency exchange",
+    "Loyalty.PageHomeFeaturesItemTitle6": "Private manager",
+
+    "Loyalty.PageHomeFeaturesItemSubtitle1": "Completing a form will take only about 10 minutes",
+    "Loyalty.PageHomeFeaturesItemSubtitle2": "Manage your funds from anywhere in the world",
+    "Loyalty.PageHomeFeaturesItemSubtitle3": "The ability to buy, sell and exchange with a click of a button",
+    "Loyalty.PageHomeFeaturesItemSubtitle4": "An easy way to money transfers money all over the world",
+    "Loyalty.PageHomeFeaturesItemSubtitle5": "Excellent exchange rate in more than 100 currencies",
+    "Loyalty.PageHomeFeaturesItemSubtitle6": "Your personal account manager ready to help you 24/7",
+
+    "Loyalty.PageHome.Finance.Title": "Your finances are always at hand",
+    "Loyalty.PageHome.Finance.Subtitle": "You can make payments in any convenient way — using remote access technology, you can receive and send money, as well as withdraw cash from any ATM.",
+    "Loyalty.PageHome.Portfolio.Title": "Build your ultimate crypto portfolio",
+
+    "Loyalty.PageHome.Portfolio.ListItem1": "Trade a wide variety of leading cryptocurrencies and crypto crosses",
+    "Loyalty.PageHome.Portfolio.ListItem2": "Follow each coin’s trends with advanced charts and analysis tools",
+    "Loyalty.PageHome.Portfolio.ListItem3": "Create a custom Watchlist and stay informed with real-time updates",
+
+    "Loyalty.FooterLinkTitle.Phone": "We are available from",
+    "Loyalty.FooterLinkTitle.Support": "Support",
+    "Loyalty.FooterLinkTitle.SWIFT.Code": "SWIFT Code",
+    "Loyalty.FooterLinkTitle.License": "License number",
+    "Loyalty.FooterLinkTitle.Address": "Address",
+    "Loyalty.FooterLink.Address": "Vinohradská 3216/165, Strašnice, 100 00 Prague 10, Czech Republic",
+
+    "Loyalty.Footer.Text": "ABAPAY s.r.o operates under the brand ABApay and is officially authorized by the National Bank of Czech Republic to provide payment services in accordance with the Rules for the provision of payment services.",
+    "Loyalty.Copyright": "Copyright © 2020 ABAPAY s.r.o. All Rights Reserved",
+
+
+    "Loyalty.PageAccount.Main.Title": "Account for those living in tune with the times",
+    "Loyalty.PageAccount.Main.Subtitle": "АBA will forever change your idea of the world of financial services, making it most understandable, simple and convenient for every client.",
+    
+    "Loyalty.PageAccount.Transfer.Title": "Quick transactions with minimal commission",
+    "Loyalty.PageAccount.Transfer.Subtitle": "Send and receive money to and from abroad",
+
+    "Loyalty.PageAccount.FeaturesItem.Title1": "Personal data safety",
+    "Loyalty.PageAccount.FeaturesItem.Title2": "Simple account statistics",
+    "Loyalty.PageAccount.FeaturesItem.Title3": "One-click access",
+
+    "Loyalty.PageAccount.FeaturesItem.Subtitle1": "We use modern technologies that fully meet all international requirements for Internet security and data storage.",
+    "Loyalty.PageAccount.FeaturesItem.Subtitle2": "Each user gets instant access to all the information regarding their current account, balance and transaction history.",
+    "Loyalty.PageAccount.FeaturesItem.Subtitle3": "You can check your account balance, make a purchase or start a new transaction using your smartphone, computer or tablet",
+
+    "Loyalty.Appreciate.Title": "Opening an account and obtaining a card",
+    "Loyalty.Appreciate.Subtitle": "ABA is different from traditional banks – you do not need to submit information about your credit history to open an account. We value your time, therefore registration in our system and identity authentication will take less than 10 minutes. All you need is a smartphone, Internet access and your passport or ID card, and a utility bill."
+}
+
