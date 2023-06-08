@@ -10,4 +10,4 @@ Website for Czech Bank
 
 ## Tech Stack 
 
-**Client:** HTML5, CSS3, SCSS, TypeScript, Webpack 4, Vue 2
+**Client:** HTML5, CSS3, Less, TypeScript, Webpack 4, Vue 2
